@@ -1,0 +1,1 @@
+write a simple bash command to create a directory "test_dir" and then create a new file called "test_file.txt"
